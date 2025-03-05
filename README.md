@@ -219,11 +219,3 @@ This project is licensed under **Apache License 2.0**.
 
 **🎉 Happy Searching with Solr! 🚀**
 ```
-
----
-
-### **📌 Step 2: Save & Share the README**
-1. **Save the above content as `README.md`** in your project folder (`C:\solr_project\README.md`).
-2. **New users can now follow the step-by-step setup without confusion!** ✅
-
-🚀 Let me know if you need any improvements! 😊
